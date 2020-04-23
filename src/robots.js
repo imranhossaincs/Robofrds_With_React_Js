@@ -37,7 +37,43 @@ export const robots=[
     email:'Chdie@mail.com'
 
 },
+{
+    id:6,
+    name:'Mear Gro ',
+    username:'MGRO',
+    email:'Mgo@mail.com'
 
+
+},
+{
+    id:7,
+    name:'KErvin How ',
+    username:'KERVH',
+    email:'Kervh@mail.com'
+},
+{
+    id:8,
+    name:'SClemen Boa ',
+    username:'SClboa',
+    email:'SClboa@mail.com'
+
+
+},
+{
+    id:9,
+    name:'DPatric Lebs ',
+    username:'DPatlrb',
+    email:'DPatlrb@mail.com'
+
+
+},
+{
+    id:10,
+    name:'TChersa Die ',
+    username:'TChdie',
+    email:'TChdie@mail.com'
+
+}
 
 ]
 
